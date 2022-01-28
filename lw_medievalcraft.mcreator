@@ -1,0 +1,121 @@
+{
+  "mod_elements": [
+    {
+      "name": "Sortiedesecour",
+      "type": "potion",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sortiedesecour"
+    },
+    {
+      "name": "Sortiedesecourrecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sortiedesecourrecipe"
+    },
+    {
+      "name": "Plumec",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plumec"
+    },
+    {
+      "name": "Plumech",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plumech"
+    },
+    {
+      "name": "Plumecharg",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plumecharg"
+    },
+    {
+      "name": "Plumechargee",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plumechargee"
+    },
+    {
+      "name": "Plumechargeerecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plumechargeerecipe"
+    },
+    {
+      "name": "Plumechargrecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plumechargrecipe"
+    },
+    {
+      "name": "Plumechrecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plumechrecipe"
+    },
+    {
+      "name": "Metal",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.lw_medievalcraft.metal": "Metal",
+      "item.minecraft.tipped_arrow.effect.sortiedesecour": "Arrow of secours",
+      "item.lw_medievalcraft.plumechargee": "Plumec",
+      "item.lw_medievalcraft.plumec": "Plumec",
+      "item.minecraft.potion.effect.sortiedesecour": "Potion of secours",
+      "item.lw_medievalcraft.plumecharg": "Plumec",
+      "item.minecraft.lingering_potion.effect.sortiedesecour": "Lingering Potion of secours",
+      "item.minecraft.splash_potion.effect.sortiedesecour": "Splash Potion secours",
+      "item.lw_medievalcraft.plumech": "Plumec"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "lw_medievalcraft",
+    "modName": "LW MedievalCraft",
+    "version": "1.0.0",
+    "author": "clero 2020, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.lwmedievalcraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
